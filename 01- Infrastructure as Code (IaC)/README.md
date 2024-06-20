@@ -34,6 +34,8 @@ resource "aws_instance" "web" {
   }
 }
 
+```
+
 Run a single command, and boom! 💥 Your infrastructure is provisioned in minutes, not days. You can even version control these configuration files just like code, making it easy to track changes and collaborate with teammates.
 
 IaC Tools 🛠️
